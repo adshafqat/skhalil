@@ -16,3 +16,7 @@ spec:
     insecureEdgeTerminationPolicy: Redirect
   wildcardPolicy: None
 
+
+
+
+Unable to create application: application spec for customerapp is invalid: InvalidSpecError: Unable to generate manifests in customerapp: rpc error: code = Unknown desc = customerapp: app path does not exist
